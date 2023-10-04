@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Metric_Converter</string>
+    <string-array name="metrics">
+        <item>Select Metric</item>
+        <item>Length</item>
+        <item>Weight</item>
+        <item>Time</item>
+        <item>Electric Current</item>
+        <item>Temperature</item>
+    </string-array>
+    <string-array name="template">
+        <item>--Select Units</item>
+    </string-array>
+</resources>
